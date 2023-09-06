@@ -13,3 +13,6 @@ This command will execute the training process for your classification network.
 
 For testing, you can run the following command: **python test.py**
 This command will execute the testing process using your trained model. Make sure to have the necessary data and model weights ready before running these commands.
+
+You can reference the provided environment.yml file for installing the required environment for this project. 
+To create a conda environment from an environment.yml file, you can use the following command in your terminal: **conda env create -f environment.yml**
